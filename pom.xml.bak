@@ -20,6 +20,5 @@
     <artifactId>spring-core</artifactId>
     <version>6.0.6</version>
     </dependency>
-
   </dependencies>
 </project>
